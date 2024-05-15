@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @WASIM63
 - Wasim Akram Mallick 
-- 👀 I’m interested in all about     engineering, science, technologies, codings etc
-- 🌱 I’m currently learning DSA and Web Development
+- 👀 I’m interested in all about engineering, science, new technologies, codings etc
+- 🌱 I’m currently learning complex DSA topics
+- I'm much compatible in basic web development
+- C/C++,Python,HTML,CSS,JS
 - 📫 How to reach me
 -     📨wamallick001@gmail.com
 -     Instagram:@wasimakrammalli
