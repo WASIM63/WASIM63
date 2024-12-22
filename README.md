@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @WASIM63
 - Wasim Akram Mallick 
 - 👀 I’m interested in all about engineering, science, new technologies, codings etc
-- 🌱 I’m currently learning complex DSA topics
-- I'm much compatible in basic web development
-- C/C++,Python,HTML,CSS,JS
+- 🌱 I’m currently learning Machine Learning.
+- I'm a MERN STACK web developer
+- C/C++,Python,HTML,CSS,JS,Node.js, Mongodb, mysql, postgres
+- I am daily solving Leetcode's advanced DSA problems to strong my real life problem solving skills.
 - 📫 How to reach me
 -     📨wamallick001@gmail.com
 -     Instagram:@wasimakrammalli
